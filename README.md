@@ -12,8 +12,10 @@ Los tweets relevantes son aquellos que mencionan una amenaza a un elemento de un
 El objetivo es clasificar tweets 'nuevos' en alguna de estas dos clases.<br>
 <br>
 La notebook de jupyter adjunta muestra la clasificación realizada mediante el uso de un Naive Bayes Classifier y una Support Vector Machine.<br>
-Obviamente, esta clasificación puede ser mejorada *un montón*. <br>
+Obviamente, esta clasificación puede ser mejorada *un montón*.<br>
 
+
+> Agradezco a los organizadores de la competencia, que compartieron conmigo el Evaluation Set.
 
 --------------------------------------------------------------------------------
 
@@ -28,6 +30,8 @@ The goal here is to classify 'new' tweets as either relevant or irrelevant.<br>
 The jupyter notebook found in this repo shows how our efforts to classify the tweets using a Naive Bayes Classifier and a Support Vector Machine.<br>
 Needless to say, this classification can be improved *a lot*.<br>
 
+
+> Special thanks to the competition organisers, who shared with me the Evaluation Set.
 
 [//]:# (Links. This won't be seen after it's interpreted.)
 
